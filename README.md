@@ -1,6 +1,6 @@
 ---
 layout: pagina
-title: Coderic Template
+title: Módulo de Facturación Electrónica para Magento
 permalink: /
 canonical_url: https://schema.coderic.net/
 sitemap: false
